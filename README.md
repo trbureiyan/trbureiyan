@@ -12,7 +12,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 ## 🔧 Tech Stack (In learning dev...)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Cdevops%2Cpython)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Cdevops%2Cpython)](https://roadmap.sh)
 
 - **Languages:** Python, Java, Go
 - **Databases:** MySQL, Sqlite, PostgreSQL, MongoDB, Azure
