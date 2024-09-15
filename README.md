@@ -58,5 +58,6 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 Thanks for stopping by! Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects in mind.
 
 # _#Never-Stop-Learning_
+![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
 . 15/09/2024
