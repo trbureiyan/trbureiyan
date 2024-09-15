@@ -1,4 +1,4 @@
-# 👋 Hello! I'm @trbureiyan
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack+Nerd+Font&weight=600&size=24&duration=3096&pause=2024&color=DFA352&random=true&width=435&height=64&lines=%F0%9F%91%8B+Hello!+I'm+%40trbureiyan)](https://git.io/typing-svg)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/trbureiyan-dev)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/trbureiyan)
@@ -64,6 +64,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 Thanks for stopping by! Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects in mind.
 
 # _#Never-Stop-Learning_
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=55hwx3bcon1co4u1yxwvc0jk6&unique=true)
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
 . 15/09/2024
