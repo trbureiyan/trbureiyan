@@ -64,7 +64,6 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 Thanks for stopping by! Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects in mind.
 
 # _#Never-Stop-Learning_
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=55hwx3bcon1co4u1yxwvc0jk6&unique=true)
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
 . 15/09/2024
