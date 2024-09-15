@@ -44,6 +44,12 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 - **Long-term Goals:** I plan to develop skills in **Software Architecture**, combining my experience in backend and frontend development to design robust, scalable, and efficient systems.
 
+# 💬Languages
+  - Spanish
+  - Japanese N5 level
+  - English B1 level
+
+
 ## 🌐 Connect with Me
 
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/trbureiyan-dev)
