@@ -32,17 +32,21 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 - **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian
 - **Others:** HTML, CSS, Design, Editing, Markdown
 
-## 📈 Current Focus
+## 📈 Career Focus
 
-- **Exploring Specializations:** As a **Software Engineering** student, I am in the process of discovering my ideal specialization. Currently, I’m deepening my knowledge in **Object-Oriented Programming (Java)**, **Networks**, and **Databases**, while building a strong foundation in system architecture and the exact sciences that are crucial to my career.
+- **Specialization Discovery:** As a Software Engineering student, I’m actively exploring areas to focus on. Currently, I’m building a strong foundation in **Object-Oriented Programming (Java)**, **Networks**, and **Databases** while deepening my understanding of **system architecture**.
+
+- **Key Focus Areas:**
+  - **DevOps & Cloud Infrastructure:** Developing expertise in **Docker**, **Linux**, **Kubernetes**, and **Cloud technologies** to streamline development and deployment workflows.
+  - **Backend Development:** Enhancing backend performance with **Java** and **Python**, focusing on scalability and efficiency.
 
 - **Upcoming Focus Areas:**
-  - **Backend Development:** I am interested in enhancing backend application performance, working with **Java**, **Python**.
+  - **Backend Development:** I am interested in enhancing backend application performance, working with languages like **Java**, **Python**, and maybe others.
   - **DevOps & Cloud Infrastructure:** Aspiring to master tools like **Docker**, **Linux**, and **DevOps** technologies to optimize development and continuous deployment workflows.
   - **Frontend & Performance Optimization:** I aim to learn more about **Web Development**, **Frontend Performance**, and building scalable, efficient user interfaces.
   - **Mobile Development & Android:** I have a strong interest in exploring mobile app development, particularly with **Android**, and eventually delving into software design and architecture.
 
-- **Long-term Goals:** I plan to develop skills in **Software Architecture**, combining my experience in backend and frontend development to design robust, scalable, and efficient systems.
+- **Long-term Goals:** I plan to develop skills in transition into a **DevOps role**, combining my knowledge of development and operations to design scalable, robust, and automated infrastructures. 
 
 # 💬Languages
   - Spanish
