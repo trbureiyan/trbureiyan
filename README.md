@@ -36,10 +36,6 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 - **Specialization Discovery:** As a Software Engineering student, I’m actively exploring areas to focus on. Currently, I’m building a strong foundation in **Object-Oriented Programming (Java)**, **Networks**, and **Databases** while deepening my understanding of **system architecture**.
 
-- **Key Focus Areas:**
-  - **DevOps & Cloud Infrastructure:** Developing expertise in **Docker**, **Linux**, **Kubernetes**, and **Cloud technologies** to streamline development and deployment workflows.
-  - **Backend Development:** Enhancing backend performance with **Java** and **Python**, focusing on scalability and efficiency.
-
 - **Upcoming Focus Areas:**
   - **Backend Development:** I am interested in enhancing backend application performance, working with languages like **Java**, **Python**, and maybe others.
   - **DevOps & Cloud Infrastructure:** Aspiring to master tools like **Docker**, **Linux**, and **DevOps** technologies to optimize development and continuous deployment workflows.
