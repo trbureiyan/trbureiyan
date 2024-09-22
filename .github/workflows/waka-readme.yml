@@ -23,10 +23,10 @@ jobs:
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: ░▒▓█
           # CODE_LANG: rust
           TIME_RANGE: all_time
-          LANG_COUNT: 10
+          # LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false # optional
