@@ -16,6 +16,9 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** and **Photographer*
 ## 💡 My Philosophy
 I believe in a world where technology serves to **enhance creativity**, not replace it. My approach to software and art is about finding balance between efficiency and expression, all while pursuing **personal growth** through continuous learning and reflection.
 
+> Coding is the art of programming using creativity and logical reasoning
+> If it exists in your mind, you can create it. In programming, there are no limits.
+
 ## 🔧 Tech Stack (In learning)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
