@@ -3,7 +3,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/trbureiyan)
 
-[![wakatime](https://wakatime.com/badge/user/ff0dc786-008c-480b-b3dd-7f0b48ab5a35.svg)](https://wakatime.com/@ff0dc786-008c-480b-b3dd-7f0b48ab5a35)
 [![](https://visitcount.itsvg.in/api?id=trbureiyan&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 Welcome to my GitHub! I'm a passionate **Software Engineer** and **Photographer** who enjoys blending the worlds of **technology** and **art**. My work reflects a strong belief in the power of creativity, logic, and continuous learning. 
@@ -35,6 +34,9 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 - **Databases:** MySQL, Sqlite, PostgreSQL, MongoDB, Azure
 - **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian
 - **Others:** HTML, CSS, Design, Editing, Markdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📈 Career Focus
 
