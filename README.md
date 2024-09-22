@@ -76,23 +76,6 @@ Thanks for stopping by! Feel free to explore my repositories and connect with me
 
 # _#Never-Stop-Learning_
 
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 27 April 2023 - To: 21 September 2024
-
-Total Time: 3 hrs 12 mins
-
-Python   1 hr 46 mins    █████████████▓░░░░░░░░░░░   55.00 %
-Java     32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
-C++      29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-XML      20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-CSV      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-```
-
-<!--END_SECTION:waka-->
-
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
 . 21/09/2024
