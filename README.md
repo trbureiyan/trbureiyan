@@ -35,6 +35,8 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 - **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian
 - **Others:** HTML, CSS, Design, Editing, Markdown
 
+## **Wakatime**
+
 <!--START_SECTION:waka-->
 
 ```txt
