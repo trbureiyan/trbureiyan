@@ -19,6 +19,25 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 > If it exists in your mind, you can create it. In programming, there are no limits.
 
+<details>
+<summary><samp><b>🔭 Current Focus</b></samp></summary>
+
+## 📈 Career Focus
+
+- **Specialization Discovery:** As a Software Engineering student, I’m actively exploring areas to focus on. Currently, I’m building a strong foundation in **Object-Oriented Programming (Java)**, **Networks**, and **Databases** while deepening my understanding of **system architecture**.
+
+- **Upcoming Focus Areas:**
+  - **Backend Development:** I am interested in enhancing backend application performance, working with languages like **Java**, **Python**, and maybe others.
+  - **DevOps & Cloud Infrastructure:** Aspiring to master tools like **Docker**, **Linux**, and **DevOps** technologies to optimize development and continuous deployment workflows.
+  - **Frontend & Performance Optimization:** I aim to learn more about **Web Development**, **Frontend Performance**, and building scalable, efficient user interfaces.
+  - **Mobile Development & Android:** I have a strong interest in exploring mobile app development, particularly with **Android**, and eventually delving into software design and architecture.
+
+- **Long-term Goals:** I plan to develop skills in transition into a **DevOps role**, combining my knowledge of development and operations to design scalable, robust, and automated infrastructures. 
+
+</details>
+
+---
+
 ## 🔧 Tech Stack (In learning)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -35,33 +54,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 - **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian
 - **Others:** HTML, CSS, Design, Editing, Markdown
 
-## **Wakatime**
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 22 August 2024 - To: 21 September 2024
-
-Total Time: 32 mins
-
-Java   32 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
-## 📈 Career Focus
-
-- **Specialization Discovery:** As a Software Engineering student, I’m actively exploring areas to focus on. Currently, I’m building a strong foundation in **Object-Oriented Programming (Java)**, **Networks**, and **Databases** while deepening my understanding of **system architecture**.
-
-- **Upcoming Focus Areas:**
-  - **Backend Development:** I am interested in enhancing backend application performance, working with languages like **Java**, **Python**, and maybe others.
-  - **DevOps & Cloud Infrastructure:** Aspiring to master tools like **Docker**, **Linux**, and **DevOps** technologies to optimize development and continuous deployment workflows.
-  - **Frontend & Performance Optimization:** I aim to learn more about **Web Development**, **Frontend Performance**, and building scalable, efficient user interfaces.
-  - **Mobile Development & Android:** I have a strong interest in exploring mobile app development, particularly with **Android**, and eventually delving into software design and architecture.
-
-- **Long-term Goals:** I plan to develop skills in transition into a **DevOps role**, combining my knowledge of development and operations to design scalable, robust, and automated infrastructures. 
-
-# 💬Languages
+## 💬Languages
   - Spanish
   - Japanese N5 level
   - English B1 level
@@ -81,6 +74,20 @@ Java   32 mins         ███████████████████
 Thanks for stopping by! Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects in mind.
 
 # _#Never-Stop-Learning_
+
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 22 August 2024 - To: 21 September 2024
+
+Total Time: 32 mins
+
+Java   32 mins         █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->
+
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
-. 15/09/2024
+. 21/09/2024
