@@ -36,6 +36,11 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 - **Others:** HTML, CSS, Design, Editing, Markdown
 
 <!--START_SECTION:waka-->
+
+```txt
+Java   32 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📈 Career Focus
