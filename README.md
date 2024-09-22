@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** and **Photographer*
 I believe in a world where technology serves to **enhance creativity**, not replace it. My approach to software and art is about finding balance between efficiency and expression, all while pursuing **personal growth** through continuous learning and reflection.
 
 > Coding is the art of programming using creativity and logical reasoning
+
 > If it exists in your mind, you can create it. In programming, there are no limits.
 
 ## 🔧 Tech Stack (In learning)
