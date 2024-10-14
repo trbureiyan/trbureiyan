@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=trbureiyan&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** and **Photographer** who enjoys blending the worlds of **technology** and **art**. My work reflects a strong belief in the power of creativity, logic, and continuous learning. 
+Welcome to my GitHub! I'm a passionate **Software Engineer** at **[Surcolombian University](https://usco.edu.co/en/)** and **[Photographer](https://www.behance.net/trbureiyan)** who enjoys blending the worlds of **technology** and **art**. My work reflects a strong belief in the power of creativity, logic, and continuous learning. 
 
 ## 🚀 About Me
 
