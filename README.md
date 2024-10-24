@@ -28,8 +28,8 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 - **Specialization Discovery:** As a Software Engineering student, I’m actively exploring areas to focus on. Currently, I’m building a strong foundation in **Object-Oriented Programming (Java)**, **Networks**, and **Databases** while deepening my understanding of **system architecture**.
 
 - **Upcoming Focus Areas:**
-  - **Backend Development:** I am interested in enhancing backend application performance, working with languages like **Java**, **Python**, and maybe others.
-  - **DevOps & Cloud Infrastructure:** Aspiring to master tools like **Docker**, **Linux**, and **DevOps** technologies to optimize development and continuous deployment workflows.
+  - **Backend Development:** I am interested in enhancing backend application performance, working with languages like **Java**, **Python**, **PHP** and maybe others.
+  - **DevOps & Cloud Infrastructure:** Aspiring to master tools like **Docker**, **Linux**, **Microsoft Azure** and **DevOps** technologies to optimize development and continuous deployment workflows.
   - **Frontend & Performance Optimization:** I aim to learn more about **Web Development**, **Frontend Performance**, and building scalable, efficient user interfaces.
   - **Mobile Development & Android:** I have a strong interest in exploring mobile app development, particularly with **Android**, and eventually delving into software design and architecture.
 
@@ -50,9 +50,9 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 [![roadmap.sh](https://roadmap.sh/card/wide/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Cdevops%2Cpython)](https://roadmap.sh) 
 
-- **Languages:** Python, Java, Go
-- **Databases:** MySQL, Sqlite, PostgreSQL, MongoDB, Azure
-- **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian
+- **Languages:** Python, Java, Go, PHP
+- **Databases:** Azure, SQL Server, Cosmos DB, MySQL, Sqlite, PostgreSQL, MongoDB
+- **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian, XAMPP, Azure Data Studio, Power BI Desktop
 - **Others:** HTML, CSS, Design, Editing, Markdown
 
 ## 💬Languages
