@@ -68,9 +68,6 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trbureiyan/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/trbureiyan?style=for-the-badge&logo=X)](https://x.com/trbureiyan)
 
-- [LinkedIn](https://www.linkedin.com/in/trbureiyan/)
-- [Linktr.ee](https://linktr.ee/trbureiyan)
-- [GDG](https://g.dev/trbureiyan-dev)
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects in mind.
 
