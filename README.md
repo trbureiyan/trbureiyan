@@ -45,7 +45,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,docker,python,java,html,azure,mysql,linux,vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,docker,python,php,java,html,azure,mysql,linux,vscode,obsidian" />
   </a>
 </p>
 
