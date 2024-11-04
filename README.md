@@ -49,7 +49,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
   </a>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Cdevops%2Cpython)](https://roadmap.sh) 
+[![roadmap.sh](https://roadmap.sh/card/wide/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Csql%2Cpython)](https://roadmap.sh) 
 
 - **Languages:** Python, Java, Go, PHP
 - **Databases:** Azure, SQL Server, Cosmos DB, MySQL, Sqlite, PostgreSQL, MongoDB
