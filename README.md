@@ -72,7 +72,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 Thanks for stopping by! Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects in mind.
 
 # _#Never-Stop-Learning_
-
+[![wakatime](https://wakatime.com/badge/user/ff0dc786-008c-480b-b3dd-7f0b48ab5a35.svg)](https://wakatime.com/@ff0dc786-008c-480b-b3dd-7f0b48ab5a35)
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
 . 18/02/2025
