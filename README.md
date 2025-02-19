@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack+Nerd+Font&weight=600&size=24&duration=3096&pause=2024&color=DFA352&random=true&width=435&height=64&lines=%F0%9F%91%8B+Hello!+I'm+%40trbureiyan)](https://git.io/typing-svg)
 
-> [![](https://visitcount.itsvg.in/api?id=trbureiyan&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+> [![trbureiyan.dev profile views](https://u8views.com/api/v1/github/profiles/111925453/views/total-count.svg)](https://u8views.com/github/trbureiyan) ![](https://hit.yhype.me/github/profile?account_id=111925453) 
 
 Welcome to my GitHub! I'm a passionate **Software Engineer** at **[Surcolombian University](https://usco.edu.co/en/)** and **[Photographer](https://www.behance.net/trbureiyan)** who enjoys blending the worlds of **technology** and **art**. My work reflects a strong belief in the power of creativity, logic, and continuous learning. 
 
@@ -75,4 +75,4 @@ Thanks for stopping by! Feel free to explore my repositories and connect with me
 
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
-. 29/10/2024
+. 18/02/2025
