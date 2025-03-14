@@ -27,15 +27,15 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 ## 📈 Career Focus
 
-- **Specialization Discovery:** As a Software Engineering student, I’m actively exploring areas to focus on. Currently, I’m building a strong foundation in **Object-Oriented Programming (Java)**, **Networks**, and **Databases** while deepening my understanding of **system architecture**.
+- **Fullstack Foundation:** Currently building hands-on experience in fullstack web development and T-shaped skills, working with Node.js, React.js, Vite, JavaScript (ESLint, JSX, etc.), Tailwind, Spring Boot, and Bootstrap while continuing to deepen my knowledge in DevOps, Cloud, and Databases.
 
-- **Upcoming Focus Areas:**
-  - **Backend Development:** I am interested in enhancing backend application performance, working with languages like **Java**, **Python**, **PHP** and maybe others.
-  - **DevOps & Cloud Infrastructure:** Aspiring to master tools like **Docker**, **Linux**, **Microsoft Azure** and **DevOps** technologies to optimize development and continuous deployment workflows.
-  - **Frontend & Performance Optimization:** I aim to learn more about **Web Development**, **Frontend Performance**, and building scalable, efficient user interfaces.
-  - **Mobile Development & Android:** I have a strong interest in exploring mobile app development, particularly with **Android**, and eventually delving into software design and architecture.
+- Upcoming Focus Areas:
+  - **Backend Development:** Enhancing backend application performance with Java, Spring Boot, Node.js, and SQL/NoSQL databases.
+  - **DevOps & Cloud Infrastructure:** Expanding expertise in Docker, Linux, Microsoft Azure, and CI/CD workflows for scalable deployments.
+  - **Frontend & Performance Optimization:** Improving Web Development, React.js, and Frontend Performance for modern, responsive applications.
+  - **Project-Based Learning:** Actively working on real-world projects, refining development workflows, and improving documentation.
 
-- **Long-term Goals:** I plan to develop skills in transition into a **DevOps role**, combining my knowledge of development and operations to design scalable, robust, and automated infrastructures. 
+- **Long-term Goals:** Transitioning into a DevOps role, bridging development and operations to design scalable, robust, and automated infrastructures. While there's still much to learn, I take consistent steps toward mastering new technologies that enrich my professional growth.
 
 </details>
 
@@ -51,7 +51,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 [![roadmap.sh](https://roadmap.sh/card/wide/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Csql%2Cpython)](https://roadmap.sh) 
 
-- **Languages:** Python, Java, Go, PHP
+- **Languages:** Python, Java, PHP
 - **Databases:** Azure, SQL Server, Cosmos DB, MySQL, Sqlite, PostgreSQL, MongoDB
 - **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian, XAMPP, Azure Data Studio, Power BI Desktop
 - **Others:** HTML, CSS, Design, Editing, Markdown
@@ -75,4 +75,4 @@ Thanks for stopping by! Feel free to explore my repositories and connect with me
 [![wakatime](https://wakatime.com/badge/user/ff0dc786-008c-480b-b3dd-7f0b48ab5a35.svg)](https://wakatime.com/@ff0dc786-008c-480b-b3dd-7f0b48ab5a35)
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
-. 18/02/2025
+. 14/03/2025
