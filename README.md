@@ -2,12 +2,15 @@
 
 > [![trbureiyan.dev profile views](https://u8views.com/api/v1/github/profiles/111925453/views/total-count.svg)](https://u8views.com/github/trbureiyan) ![](https://hit.yhype.me/github/profile?account_id=111925453) 
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** at **[Surcolombian University](https://usco.edu.co/en/)** and **[Photographer](https://www.behance.net/trbureiyan)** who enjoys blending the worlds of **technology** and **art**. My work reflects a strong belief in the power of creativity, logic, and continuous learning. 
+Welcome to my GitHub! I'm a **Software Engineering student** at **[Surcolombian University](https://usco.edu.co/en/)** and a **Photographer** focused on building meaningful digital products.
+Currently, my work is centered on **web software development**, **UI/UX design**, and **project-based research learning**, combining structured engineering principles with visual and communicational clarity.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently deepening my skills in **Software Development**, focusing on **Backend Engineering**, **Databases** and **DevOps**.
-> 📸 I explore **photography** as a way to capture the beauty in the intersection between technology and human emotion.
+- 🎯 Focused on building structured, maintainable and production-oriented software systems.
+- 🧠 I learn through **research-driven projects**, currently developing *[DevurityWeb](https://github.com/trbureiyan/DevurityWeb)* and *[MaqAgr](https://github.com/David9604/BackMaqagr)*.
+- 🎨 My current interest has shifted strongly toward **Frontend, UI/UX and Graphic Design**, while strengthening solid foundations in Web Development and Databases.
+- 🤝 I’m actively developing **soft skills, leadership and technical communication** alongside my technical growth.
 
 <details>
 <summary><samp><b>💡 My Philosophy</b></samp></summary>
@@ -25,19 +28,47 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 <details>
 <summary><samp><b>🔭 Current Focus</b></samp></summary>
 
-## 📈 Career Focus
+## 📈 Current Focus
 
-- **Fullstack Foundation:** Currently building hands-on experience in fullstack web development and T-shaped skills, working with Node.js, React.js, Vite, JavaScript (ESLint, JSX, etc.), Tailwind, Spring Boot, and Bootstrap while continuing to deepen my knowledge in DevOps, Cloud, and Databases.
+- **Web Architecture & Frontend Systems:** Strengthening fullstack foundations with emphasis on scalable frontend architecture (Next.js / React), UI/UX consistency and clean backend integration.
+- **Project-Based Engineering:** Leading and developing research-oriented systems such as DevurityWeb and MaqAgr, applying structured software engineering principles and real-world constraints.
+- **Data Architecture & Application Design:**
+  - Designing and working with **OLTP-oriented systems** for transactional web applications.
+  - Studying and modeling **OLAP scenarios** for analytical workflows and reporting.
+  - Deepening relational modeling, normalization strategies and query optimization with PostgreSQL.
+  - Applying concepts validated through Microsoft Azure DP-900 (Data Fundamentals).
+  - Emphasizing code quality, documentation standards and maintainable system design.
+- **Infrastructure Awareness:** Understanding how application layers interact with databases, APIs and cloud services to build maintainable and scalable systems.
+- Architecting frontend structure with Next.js and TypeScript while integrating REST-based backend services.
+- **Professional Growth:** Strengthening productivity systems, leadership, documentation standards and technical communication.
+- **Future Expansion (Second Stage):**
+  - Docker & containerized environments
+  - SQL Server & Azure Data Studio
+  - Power BI & analytical pipelines
+  - DevOps practices (after consolidating architectural foundations)
 
-- Upcoming Focus Areas:
-  - **Backend Development:** Enhancing backend application performance with Java, Spring Boot, Node.js, and SQL/NoSQL databases.
-  - **DevOps & Cloud Infrastructure:** Expanding expertise in Docker, Linux, Microsoft Azure, and CI/CD workflows for scalable deployments.
-  - **Frontend & Performance Optimization:** Improving Web Development, React.js, and Frontend Performance for modern, responsive applications.
-  - **Project-Based Learning:** Actively working on real-world projects, refining development workflows, and improving documentation.
+## 📊 Impact & Contributions
 
-- **Long-term Goals:** Transitioning into a DevOps role, bridging development and operations to design scalable, robust, and automated infrastructures. While there's still much to learn, I take consistent steps toward mastering new technologies that enrich my professional growth.
+- Contributing to the digital consolidation of Devurity research group.
+- Designing and structuring web platforms with transactional (OLTP) foundations.
+- Aligning frontend architecture with scalable backend logic.
+- Strengthening academic-technological visibility through digital branding and content systems.
 
 </details>
+
+## 🧪 Research & Leadership
+
+I am part of the research seedbed **[Devurity](https://devurity-web.vercel.app/)** at Surcolombian University.
+
+I lead the **content and digital ecosystem**, exercising a hybrid role between technical management and communication strategy. My responsibilities include:
+
+- Structuring and projecting the digital presence of the research group.
+- Managing the web ecosystem and institutional social media.
+- Coordinating content strategy, visual identity and branding.
+- Producing professional multimedia content.
+- Supporting the coordination and dissemination of academic and technological activities.
+
+This role allows me to integrate engineering, design, branding and strategic communication within an academic-technological environment.
 
 ---
 
@@ -45,18 +76,22 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,python,php,java,html,azure,mysql,linux,vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,js,figma,postman,python,java,git,linux,azure,docker" />
   </a>
 </p>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Csql%2Cpython)](https://roadmap.sh) 
 
-- **Languages:** Python, Java, PHP
-- **Databases:** Azure, SQL Server, Cosmos DB, MySQL, Sqlite, PostgreSQL, MongoDB
-- **Tools:** Docker, Git, Linux&Windows, VScode, Obsidian, XAMPP, Azure Data Studio, Power BI Desktop
-- **Others:** HTML, CSS, Design, Editing, Markdown
+- **Main Stack:** Next.js, React, Node.js, TypeScript, JavaScript, PostgreSQL
+- **Backend & APIs:** Node.js, Postman, REST APIs
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Design & UI/UX:** Figma, Frontend Architecture, Branding
+- **Languages:** Python, Java (Foundations)
+- **Tools:** Git, Linux, VSCode
+- **Learning Roadmap:** Docker, SQL Server, Azure Data Studio, Power BI
+- **Certifications:** Microsoft Azure Data Fundamentals (DP-900)
 
-## 💬Languages
+## 🌍 Languages
   - Spanish
   - Japanese N5 level
   - English B1 level
@@ -68,11 +103,11 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trbureiyan/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/trbureiyan?style=for-the-badge&logo=X)](https://x.com/trbureiyan)
 
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me if you share similar interests or have exciting projects in mind.
+I’m currently focused on building solid engineering foundations, structured thinking and meaningful digital projects.
+If you’re interested in research, web development, UI/UX or structured growth in tech — feel free to connect.
 
 # _#Never-Stop-Learning_
 [![wakatime](https://wakatime.com/badge/user/ff0dc786-008c-480b-b3dd-7f0b48ab5a35.svg)](https://wakatime.com/@ff0dc786-008c-480b-b3dd-7f0b48ab5a35)
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
-. 14/03/2025
+. 18/02/2026
