@@ -33,27 +33,21 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 - **Web Architecture & Frontend Systems:** Strengthening fullstack foundations with emphasis on scalable frontend architecture (Next.js / React), UI/UX consistency and clean backend integration.
 - **Project-Based Engineering:** Leading and developing research-oriented systems such as DevurityWeb and MaqAgr, applying structured software engineering principles and real-world constraints.
 - **Data Architecture & Application Design:**
-  - Designing and working with **OLTP-oriented systems** for transactional web applications.
-  - Studying and modeling **OLAP scenarios** for analytical workflows and reporting.
-  - Deepening relational modeling, normalization strategies and query optimization with PostgreSQL.
+  - Designing OLTP-oriented systems for transactional web apps; modeling OLAP scenarios for analytical workflows. Deep work with PostgreSQL, normalization, relational modeling and query optimization.
   - Applying concepts validated through Microsoft Azure DP-900 (Data Fundamentals).
   - Emphasizing code quality, documentation standards and maintainable system design.
 - **Infrastructure Awareness:** Understanding how application layers interact with databases, APIs and cloud services to build maintainable and scalable systems.
 - Architecting frontend structure with Next.js and TypeScript while integrating REST-based backend services.
 - **Professional Growth:** Strengthening productivity systems, leadership, documentation standards and technical communication.
-- **Future Expansion (Second Stage):**
-  - Docker & containerized environments
-  - SQL Server & Azure Data Studio
-  - Power BI & analytical pipelines
-  - DevOps practices (after consolidating architectural foundations)
+<details>
+<summary><b>🔭 Next Stage (Roadmap)</b></summary>
 
-## 📊 Impact & Contributions
+- Docker & containerized environments
+- SQL Server & Azure Data Studio
+- Power BI & analytical pipelines
+- DevOps fundamentals
 
-- Contributing to the digital consolidation of Devurity research group.
-- Designing and structuring web platforms with transactional (OLTP) foundations.
-- Aligning frontend architecture with scalable backend logic.
-- Strengthening academic-technological visibility through digital branding and content systems.
-
+</details>
 </details>
 
 ## 🧪 Research & Leadership
@@ -106,8 +100,16 @@ This role allows me to integrate engineering, design, branding and strategic com
 I’m currently focused on building solid engineering foundations, structured thinking and meaningful digital projects.
 If you’re interested in research, web development, UI/UX or structured growth in tech — feel free to connect.
 
-# _#Never-Stop-Learning_
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trbureiyan&theme=react-dark&color=DFA352&line=DFA352&point=ffffff&hide_border=false" />
+</p>
+
 [![wakatime](https://wakatime.com/badge/user/ff0dc786-008c-480b-b3dd-7f0b48ab5a35.svg)](https://wakatime.com/@ff0dc786-008c-480b-b3dd-7f0b48ab5a35)
+
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
 . 18/02/2026
