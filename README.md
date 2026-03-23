@@ -8,7 +8,7 @@ Currently, my work is centered on **web software development**, **UI/UX design**
 ## 🚀 About Me
 
 - 🎯 Focused on building structured, maintainable and production-oriented software systems.
-- 🧠 I learn through **research-driven projects**, currently developing *[DevurityWeb](https://github.com/trbureiyan/DevurityWeb)* and *[MaqAgr](https://github.com/David9604/BackMaqagr)*.
+- 🧠 I learn through **research-driven projects**, currently developing *[DevurityWeb](https://github.com/trbureiyan/DevurityWeb)* and *[MaqAgr](https://github.com/trbureiyan/Maqagr)*.
 - 🎨 My current interest has shifted strongly toward **Frontend, UI/UX and Graphic Design**, while strengthening solid foundations in Web Development and Databases.
 - 🤝 I’m actively developing **soft skills, leadership and technical communication** alongside my technical growth.
 
