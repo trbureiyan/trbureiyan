@@ -53,7 +53,7 @@ I believe in a world where technology serves to **enhance creativity**, not repl
 <details>
 <summary><samp><b>🧪 Research & Leadership</b></samp></summary>
 
-I am part of the research seedbed **[Devurity](https://devurity-web.vercel.app/)** at Surcolombian University.
+I am part of the research seedbed **[Devurity](https://devurityweb.vercel.app/)** at Surcolombian University.
 
 I lead the **content and digital ecosystem**, exercising a hybrid role between technical management and communication strategy. My responsibilities include:
 
