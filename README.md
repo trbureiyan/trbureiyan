@@ -1,117 +1,35 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack+Nerd+Font&weight=600&size=24&duration=3096&pause=2024&color=DFA352&random=true&width=435&height=64&lines=%F0%9F%91%8B+Hello!+I'm+%40trbureiyan)](https://git.io/typing-svg)
 
-> [![trbureiyan.dev profile views](https://u8views.com/api/v1/github/profiles/111925453/views/total-count.svg)](https://u8views.com/github/trbureiyan) ![](https://hit.yhype.me/github/profile?account_id=111925453) 
-
-Welcome to my GitHub! I'm a **Software Engineering student** at **[Surcolombian University](https://usco.edu.co/en/)** and a **Photographer** focused on building meaningful digital products.
-Currently, my work is centered on **web software development**, **UI/UX design**, and **project-based research learning**, combining structured engineering principles with visual and communicational clarity.
-
-## 🚀 About Me
-
-- 🎯 Focused on building structured, maintainable and production-oriented software systems.
-- 🧠 I learn through **research-driven projects**, currently developing *[DevurityWeb](https://github.com/trbureiyan/DevurityWeb)* and *[MaqAgr](https://github.com/trbureiyan/Maqagr)*.
-- 🎨 My current interest has shifted strongly toward **Frontend, UI/UX and Graphic Design**, while strengthening solid foundations in Web Development and Databases.
-- 🤝 I’m actively developing **soft skills, leadership and technical communication** alongside my technical growth.
-
-<details>
-<summary><samp><b>💡 My Philosophy</b></samp></summary>
-
-## 💡 My Philosophy
-I believe in a world where technology serves to **enhance creativity**, not replace it. My approach to software and art is about finding balance between efficiency and expression, all while pursuing **personal growth** through continuous learning and reflection.
+Welcome to my GitHub! I'm a Software Engineering student at [Universidad Surcolombiana](https://usco.edu.co/en/), Colombia.
+Building web systems and interfaces. Part of [Devurity](https://devurityweb.vercel.app/), a research group where I lead the digital ecosystem.
 
 > "You may not think that programmers are artists, but programming is an extremely creative profession. It is a creativity based on logic."
 > Alfonso John Romero-
-
-> Programming is the art that combines logic and mathematics with creativity. If it exists in your mind, you can create it. In programming, there are no limits. Don't let anyone stop you.
-
-</details>
-
-<details>
-<summary><samp><b>🔭 Current Focus</b></samp></summary>
-
-## 📈 Current Focus
-
-- **Web Architecture & Frontend Systems:** Strengthening fullstack foundations with emphasis on scalable frontend architecture (Next.js / React), UI/UX consistency and clean backend integration.
-- **Project-Based Engineering:** Leading and developing research-oriented systems such as DevurityWeb and MaqAgr, applying structured software engineering principles and real-world constraints.
-- **Data Architecture & Application Design:**
-  - Designing OLTP-oriented systems for transactional web apps; modeling OLAP scenarios for analytical workflows. Deep work with PostgreSQL, normalization, relational modeling and query optimization.
-  - Applying concepts validated through Microsoft Azure DP-900 (Data Fundamentals).
-  - Emphasizing code quality, documentation standards and maintainable system design.
-- **Infrastructure Awareness:** Understanding how application layers interact with databases, APIs and cloud services to build maintainable and scalable systems.
-- Architecting frontend structure with Next.js and TypeScript while integrating REST-based backend services.
-- **Professional Growth:** Strengthening productivity systems, leadership, documentation standards and technical communication.
-<details>
-<summary><b>🔭 Next Stage (Roadmap)</b></summary>
-
-- Docker & containerized environments
-- SQL Server & Azure Data Studio
-- Power BI & analytical pipelines
-- DevOps fundamentals
-
-</details>
-</details>
-
-<details>
-<summary><samp><b>🧪 Research & Leadership</b></samp></summary>
-
-I am part of the research seedbed **[Devurity](https://devurityweb.vercel.app/)** at Surcolombian University.
-
-I lead the **content and digital ecosystem**, exercising a hybrid role between technical management and communication strategy. My responsibilities include:
-
-- Structuring and projecting the digital presence of the research group.
-- Managing the web ecosystem and institutional social media.
-- Coordinating content strategy, visual identity and branding.
-- Producing professional multimedia content.
-- Supporting the coordination and dissemination of academic and technological activities.
-
-This role allows me to integrate engineering, design, branding and strategic communication within an academic-technological environment.
-</details>
-
----
 
 ## 🔧 Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,js,figma,postman,python,java,git,linux,azure,docker" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,js,figma,python,java,git,linux,azure,docker" />
   </a>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/wide/651220443dc8db4c64bc7757?variant=dark&roadmaps=linux%2Cjava%2Csql%2Cpython)](https://roadmap.sh) 
-
-- **Main Stack:** Next.js, React, Node.js, TypeScript, JavaScript, PostgreSQL
-- **Backend & APIs:** Node.js, Postman, REST APIs
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Design & UI/UX:** Figma, Frontend Architecture, Branding
-- **Languages:** Python, Java (Foundations)
-- **Tools:** Git, Linux, VSCode
-- **Learning Roadmap:** Docker, SQL Server, Azure Data Studio, Power BI
-- **Certifications:** Microsoft Azure Data Fundamentals (DP-900)
-
-## 🌍 Languages
-  - Spanish
-  - Japanese N5 level
-  - English B1 level
-
+**Working with:** Next.js · React · TypeScript · Node.js · PostgreSQL · Figma  
+**Also familiar with:** Python · Java · Linux · Docker · Azure
 
 ## 🌐 Connect with Me
 
-[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/trbureiyan-dev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trbureiyan/)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/trbureiyan?style=for-the-badge&logo=X)](https://x.com/trbureiyan)
-
-I’m currently focused on building solid engineering foundations, structured thinking and meaningful digital projects.
-If you’re interested in research, web development, UI/UX or structured growth in tech — feel free to connect.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trbureiyan&theme=react-dark&color=DFA352&line=DFA352&point=ffffff&hide_border=false" />
-</p>
-
-[![wakatime](https://wakatime.com/badge/user/ff0dc786-008c-480b-b3dd-7f0b48ab5a35.svg)](https://wakatime.com/@ff0dc786-008c-480b-b3dd-7f0b48ab5a35)
-
 ![snake gif](https://github.com/trbureiyan/trbureiyan/blob/output/snake.svg)
 
-. 18/02/2026
+<details hidden>
+  <summary>. 07/09/2026</summary>
+  <img src="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x75;&#x38;&#x76;&#x69;&#x65;&#x77;&#x73;&#x2e;&#x63;&#x6f;&#x6d;&#x2f;&#x61;&#x70;&#x69;&#x2f;&#x76;&#x31;&#x2f;&#x67;&#x69;&#x74;&#x68;&#x75;&#x62;&#x2f;&#x70;&#x72;&#x6f;&#x66;&#x69;&#x6c;&#x65;&#x73;&#x2f;&#x31;&#x31;&#x31;&#x39;&#x32;&#x35;&#x34;&#x35;&#x33;&#x2f;&#x76;&#x69;&#x65;&#x77;&#x73;&#x2f;&#x74;&#x6f;&#x74;&#x61;&#x6c;&#x2d;&#x63;&#x6f;&#x75;&#x6e;&#x74;&#x2e;&#x73;&#x76;&#x67;" width="0" height="0" alt="" />
+  <img src="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x68;&#x69;&#x74;&#x2e;&#x79;&#x68;&#x79;&#x70;&#x65;&#x2e;&#x6d;&#x65;&#x2f;&#x67;&#x69;&#x74;&#x68;&#x75;&#x62;&#x2f;&#x70;&#x72;&#x6f;&#x66;&#x69;&#x6c;&#x65;&#x3f;&#x61;&#x63;&#x63;&#x6f;&#x75;&#x6e;&#x74;&#x5f;&#x69;&#x64;&#x3d;&#x31;&#x31;&#x31;&#x39;&#x32;&#x35;&#x34;&#x35;&#x33;" width="0" height="0" alt="" />
+</details>
