@@ -12,6 +12,7 @@ Building web systems and interfaces. Part of [Devurity](https://devurityweb.verc
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,js,figma,python,java,git,linux,azure,docker" />
   </a>
+  <img width="40" height="40" alt="phoebe_40_transparent" src="https://github.com/user-attachments/assets/87a5c4b6-1ed4-4ace-b6b7-56af523bba60" />
 </p>
 
 **Working with:** Next.js · React · TypeScript · Node.js · PostgreSQL · Figma  
@@ -32,4 +33,5 @@ Building web systems and interfaces. Part of [Devurity](https://devurityweb.verc
   <summary>. 07/09/2026</summary>
   <img src="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x75;&#x38;&#x76;&#x69;&#x65;&#x77;&#x73;&#x2e;&#x63;&#x6f;&#x6d;&#x2f;&#x61;&#x70;&#x69;&#x2f;&#x76;&#x31;&#x2f;&#x67;&#x69;&#x74;&#x68;&#x75;&#x62;&#x2f;&#x70;&#x72;&#x6f;&#x66;&#x69;&#x6c;&#x65;&#x73;&#x2f;&#x31;&#x31;&#x31;&#x39;&#x32;&#x35;&#x34;&#x35;&#x33;&#x2f;&#x76;&#x69;&#x65;&#x77;&#x73;&#x2f;&#x74;&#x6f;&#x74;&#x61;&#x6c;&#x2d;&#x63;&#x6f;&#x75;&#x6e;&#x74;&#x2e;&#x73;&#x76;&#x67;" width="0" height="0" alt="" />
   <img src="&#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x68;&#x69;&#x74;&#x2e;&#x79;&#x68;&#x79;&#x70;&#x65;&#x2e;&#x6d;&#x65;&#x2f;&#x67;&#x69;&#x74;&#x68;&#x75;&#x62;&#x2f;&#x70;&#x72;&#x6f;&#x66;&#x69;&#x6c;&#x65;&#x3f;&#x61;&#x63;&#x63;&#x6f;&#x75;&#x6e;&#x74;&#x5f;&#x69;&#x64;&#x3d;&#x31;&#x31;&#x31;&#x39;&#x32;&#x35;&#x34;&#x35;&#x33;" width="0" height="0" alt="" />
+<img width="40" height="40" alt="phoebe_help_40_transparent" src="https://github.com/user-attachments/assets/ac782e6b-34cd-4da5-9d25-195095fad2ee" />
 </details>
